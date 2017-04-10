@@ -8,7 +8,7 @@ tags: [ "WordPress", "WordCamp", "Talks", "Torino" ]
 
 Here the links to the slides of my talk *"Continuously Deploying WordPress"* I gave at  [WordCamp Torino 2017](https://2017.torino.wordcamp.org/).
 
-In italian: https://speakerdeck.com/gmazzap/continuously-deploying-wordpress-it
+Found original slides (in italian) [here](https://speakerdeck.com/gmazzap/continuously-deploying-wordpress-it)
 
-In english: https://speakerdeck.com/gmazzap/continuously-deploying-wordpress-1
+Found slides translated in english [here](https://speakerdeck.com/gmazzap/continuously-deploying-wordpress-1)
 
