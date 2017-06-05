@@ -152,7 +152,7 @@ that is just few characters more than the `has_filter` + `"function()"` way, and
 
 Considering that to provide the  `has_filter` + `"function()"` functionality is not free (it comes at a cost of additional complexity, and it is less trivial than it seems) I asked myself if it was worth to keep this feature just to save typing few characters or maybe if it was better to deprecate functionality and remove in next version. 
 
-Then I thought that it could be interesting to provide a way to *distinguish* once closure from another (something that is not possible via `Mockery::type`): adding signature recognition to closure string representation, even if not perfect, seemed a good approach in compromise between added costs and benefits.
+Then I thought that it could be interesting to provide a way to *distinguish* one closure from another (something that is not possible via `Mockery::type`): adding signature recognition to closure string representation, even if not perfect, seemed a good approach in compromise between added costs and benefits.
 
 To make the signature recognition possible, but optional had required a fair amount of additional complexity, so I made the signature mandatory, after all who don't need to distinguish closures can use `\Mockery::type('\Closure')` that is not big deal and even benefits of IDE auto-completion (unlike `"function()"`).
 
