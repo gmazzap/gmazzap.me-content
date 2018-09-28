@@ -2,7 +2,7 @@
 codeFormat: false
 date: 2018-03-21T23:09:48+02:00
 description: "Giuseppe will co-host a workshop at WCUE 2018 in Belgrade"
-title: "see-you-in-belgrade"
+title: "See you in Belgrade!"
 tags: [ "WordPress", "WordCamp", "Talks", "WCEU" ]
 ---
 
