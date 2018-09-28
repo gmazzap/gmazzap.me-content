@@ -2,7 +2,7 @@
 codeFormat: false
 date: 2018-03-21T23:09:48+02:00
 description: "Giuseppe will co-host a workshop at WCUE 2018 in Belgrade"
-title: "Composer from Zero to Hero (WCTRN 2018) Workshop Slides"
+title: "see-you-in-belgrade"
 tags: [ "WordPress", "WordCamp", "Talks", "WCEU" ]
 ---
 
